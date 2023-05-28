@@ -8,8 +8,8 @@ The author of the real world data we use states that the source of this dataset 
 
 ## Requirements
 
-To install requirements:
-
+To install requirements:    
+`cd` into `ain2002-stroke-predictions` folder and run the following command in the terminal:
 ```setup
 pip install -r requirements.txt
 ```
@@ -79,4 +79,6 @@ OOF AUC: 0.8840207775423436
 
 
 ## Contributions
-Buğra Aldal - Github
+Buğra Aldal: Github
+Hamdi Alakkad: Report
+MHD Ghaith Saeedy: Report
