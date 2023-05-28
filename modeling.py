@@ -1,7 +1,6 @@
 from sklearn.impute import SimpleImputer
 import pandas as pd
 import numpy as np
-import pandas as pd
 from feature_engine.encoding import StringSimilarityEncoder
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import roc_auc_score
