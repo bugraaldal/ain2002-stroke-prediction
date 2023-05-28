@@ -79,6 +79,6 @@ OOF AUC: 0.8840207775423436
 
 
 ## Contributions
-Buğra Aldal: Github
-Hamdi Alakkad: Report
-MHD Ghaith Saeedy: Report
+Buğra Aldal: Github   
+Hamdi Alakkad: Report   
+MHD Ghaith Saeedy: Report    
